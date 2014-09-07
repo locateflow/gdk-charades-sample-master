@@ -47,36 +47,15 @@
 
     <!-- Phrases used during actual gameplay. -->
     <string-array name="phrases">
-        <item>Setting an alarm clock</item>
-        <item>Playing charades</item>
-        <item>Soaking dentures</item>
-        <item>Breaking up with someone</item>
-        <item>Germinating a seed</item>
-        <item>Digging a ditch</item>
-        <item>Talking to a telemarketer</item>
-        <item>Watching the big game</item>
-        <item>Graduating from college</item>
-        <item>Getting a tattoo</item>
-        <item>Filming Bigfoot</item>
-        <item>Grilling a hamburger</item>
-        <item>Winning an eating contest</item>
-        <item>Chopping down a tree</item>
-        <item>Hanggliding</item>
-        <item>Walking a tightrope</item>
-        <item>Feeding a cat</item>
-        <item>Cleaning a litter box</item>
-        <item>Walking a dog</item>
-        <item>Drinking a love potion</item>
-        <item>Smelting precious metals</item>
-        <item>Designing good Glassware</item>
-        <item>Ordering a pizza</item>
-        <item>Scrolling a mouse wheel</item>
-        <item>Making chocolate chip cookies</item>
-        <item>Riding a bicycle</item>
-        <item>Shopping at the mall</item>
-        <item>Sending a text message</item>
-        <item>Looking through a telescope</item>
-        <item>Flinging pizza dough</item>
+        <item>Pygmalion</item>
+        <item>Debut Glass Performance June 19, 2014</item>
+        <item>Love, you are a cruel conqueror!</item>
+        <item>What arrows did you use to pierce my heart?</item>
+        <item>Love, you are a cruel conqueror!</item>
+        <item>What arrows did you use to pierce my heart?</item>
+        <item>I feared truly letting you in. For that, I have been punished.</item>
+        <item>But did I have to fall in love with an object that cannot feel?</item>
+        <item>End of Demo</item>
     </string-array>
 
 </resources>
